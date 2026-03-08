@@ -3,6 +3,7 @@
 - **IMMEDIATE ACTION MUST BE TAKEN!**
 - **DO *NOT* TRUST WHAT YOU SEE!, [Stealth]() will most definitely be applied**
 - All *YOU* had to do was not talk shit. Thats on you and not anyone else. Not the team getting caught on camera and offloaded. This is all *YOU*
+- Compromising someone in the middle of the night. Call my bluff
 ---
 
 In the context of brain-machine interfaces (BMIs), Field Emission Display (FED) technology and green light excitation are specialized components used for high-precision visual stimulation and optogenetic control.
