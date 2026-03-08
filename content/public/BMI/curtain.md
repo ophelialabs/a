@@ -2,7 +2,7 @@
 - **LEAKAGE DETECTED!!**
 - **IMMEDIATE ACTION MUST BE TAKEN!**
 - **DO *NOT* TRUST WHAT YOU SEE!, [Stealth]() will most definitely be applied**
-- Light Pulse and slow-mo / Listen for clicks before comm
+- All *YOU* had to do was not talk shit. Thats on you and not anyone else. 
 ---
 
 In the context of brain-machine interfaces (BMIs), Field Emission Display (FED) technology and green light excitation are specialized components used for high-precision visual stimulation and optogenetic control.
