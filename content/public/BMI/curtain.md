@@ -3,7 +3,7 @@
 - **IMMEDIATE ACTION MUST BE TAKEN!**
 - **DO *NOT* TRUST WHAT YOU SEE!, [Stealth]() will most definitely be applied**
 - All *YOU* had to do was not talk shit. Thats on you and not anyone else. Not the team getting caught on camera and offloaded. This is all *YOU*
-- Compromising someone in the middle of the night and implanting them in their sleep. Call my bluff. Should of killed me when you had the chance. How do I bring ***YOU*** out into the light?
+- Compromising someone in the middle of the night and implanting them in their sleep. Call my bluff. Should of killed me when you had the chance instead of trying to frame me. How do I bring ***YOU*** out into the light?
 ---
 
 In the context of brain-machine interfaces (BMIs), Field Emission Display (FED) technology and green light excitation are specialized components used for high-precision visual stimulation and optogenetic control.
