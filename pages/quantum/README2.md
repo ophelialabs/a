@@ -7,12 +7,6 @@
 - Thermal Accumulation: This may cause inductive heating of the Ag-injected site. Even a 1-2°C rise in localized tissue temperature can trigger an inflammatory response that "fouls" the graphene fiber interface with scar tissue (gliosis).
 - Magnetophoretic Migration: This shifts the "conductive bridge" away from the **graphene fiber terminals**, causing your neural interface to **lose** its calibration or **"drift"** as the Ag-site physically deforms.
 
-### Four Main Options
-1. Dispr
-2. Dsgse
-3. **Re-apply**
-4. Patience
-
 ---
 
 ## Further research is needed
