@@ -29,7 +29,7 @@ Lead-Free Composition: Materials like KNN offer a high electromechanical couplin
 ) without the environmental toxicity of lead.
 Low Dielectric Loss: These materials exhibit efficient energy conversion with minimal heat generation, suitable for continuous high-frequency actuation. 
 
-Applying Magnetic Force via the Patch 
+### Applying Magnetic Force via the Patch 
 To apply or control a magnetic force using a piezoelectric patch, the device must utilize the converse magnetoelectric (ME) effect. This is achieved by bonding the niobate patch to a magnetostrictive layer (e.g., Terfenol-D or Metglas): 
 
 Strain-Mediated Coupling: When an external electric field is applied to the niobate patch, it deforms (inverse piezoelectric effect).
