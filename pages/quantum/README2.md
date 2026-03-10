@@ -15,6 +15,8 @@
 
 ---
 
+## Further research is needed
+
    Piezoelectric niobate patches, such as those made from Lithium Niobate (LiNbO₃) or Potassium Sodium Niobate (KNN), are engineered for high-performance sensing and actuation due to their superior thermal and mechanical stability compared to traditional lead-based materials. While a standard piezoelectric patch cannot generate a magnetic force on its own, it can do so when integrated into a multiferroic composite. 
 
 Engineering Material Properties
