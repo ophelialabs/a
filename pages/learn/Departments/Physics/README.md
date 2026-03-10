@@ -57,7 +57,7 @@ Experimental searches focus on rare decays where the initial and final states di
 ## CLFV Major Experiments
     - Mu3e: Searching for the decay at the Paul Scherrer institute
     - Meg-II: Aiming for unprecented sensitivity in 
-    - Mu2e & COMET: Dedicated to detecting the conversion of a muon into an electron in the field of a nucleus
+    - **Mu2e & COMET: Dedicated to detecting the conversion of a muon into an electron in the field of a nucleus**
     - Belle II: Primarily investigating LFV in tau leptons and mesons.
 
 ## Specific Gas Mixtures
