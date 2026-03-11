@@ -61,11 +61,11 @@ By combining these colors, a BCI can achieve opposing control. For instance, in 
 In advanced fiber-based neural interfaces, external laser excitation and Quantum-dot Light Emitting Diodes (QLEDs) are often integrated to create "dual-mode" or "hybrid" systems. This combination allows for a sophisticated balance between high-power, deep-tissue stimulation and localized, energy-efficient modulation.
 
 ## 1. External Lasers for Deep Stimulation
-External lasers (often diode lasers) serve as the primary high-intensity excitation source. 
+**External** lasers (often diode lasers) serve as the primary high-intensity excitation source. 
 
 - **Fiber Coupling**: The laser is coupled into a specialized multimaterial fiber. Because lasers provide high power density, they can overcome the significant light scattering and absorption of brain tissue to reach deep-seated neurons.
 
-- **Role**: Usually used for optogenetic "writing"—triggering specific behavioral or motor responses by exciting light-sensitive proteins (opsins) at a distance from the fiber tip. 
+- **Role**: Usually used for optogenetic "writing"—***triggering specific behavioral or motor responses*** by exciting light-sensitive proteins (opsins) at a distance from the fiber tip. 
 
 ## 2. Fiber-Integrated QLEDs for Localized Control
 QLEDs represent a newer class of "active" neural implants that generate light directly at the site of the neurons. 
