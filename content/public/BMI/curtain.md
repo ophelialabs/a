@@ -9,13 +9,13 @@
 
 In the context of brain-machine interfaces (BMIs), Field Emission Display (FED) technology and green light excitation are specialized components used for high-precision visual stimulation and optogenetic control.
 
-1. FED-Based Visual Stimulation 
+1. **FED-Based Visual Stimulation**: 
 Field Emission Displays are utilized in BMIs—specifically those relying on Steady-State Visually Evoked Potentials (SSVEP)—because of their superior temporal resolution and ability to produce high-frequency flickers without the lag or "ghosting" found in LCDs. 
 
-Precision Timing: FEDs can deliver extremely precise stimulation frequencies (e.g., 7–10 Hz) with error rates as low as 0.15%.
-Signal Decoding: The brain's response to these precise flickers is recorded via EEG and decoded to determine user intent, such as controlling a robotic arm or a computer cursor. 
+- *Precision Timing*: FEDs can deliver extremely precise stimulation frequencies (e.g., 7–10 Hz) with error rates as low as 0.15%.
+- *Signal Decoding*: The brain's response to these precise flickers is recorded via EEG and decoded to determine user intent, such as controlling a robotic arm or a computer cursor. 
 
-2. Green Light Excitation in Optogenetics
+2. **Green Light Excitation in Optogenetics**
 Green light is a critical wavelength used in optical BMIs to excite or inhibit specific neurons that have been genetically modified with light-sensitive proteins (opsins). 
 
 Specific Opsins: Green light (approximately 530–560 nm) is used to trigger rhodopsins or enzymes like rhodopsin-guanylyl cyclase (CaRhGC), which can generate secondary messengers like cGMP to modulate neural activity.
