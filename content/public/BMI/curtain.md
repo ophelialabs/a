@@ -174,3 +174,8 @@ Hardware-Intrinsic Encryption: Some advanced sensors use bias-voltage control as
 Common Median Referencing (CMR): This hardware-level technique removes interference common to all electrodes (like muscle movements or power line noise) by referencing each channel to the median of the group. This isolates the unique local signals of interest, making the data harder to de-anonymize through broad pattern matching. 
 
 **Note:** When bi-directional communication is implemented, THINK Freud (Controlled Studies), and self-analyze. What is being provoked and stay **centered**
+
+---
+
+Citations:
+1. [In Vivo Evaluation of Thermally Drawn BiodegradableOptical Fibers as Brain Implants](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jbm.b.35549) 
