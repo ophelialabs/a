@@ -1,11 +1,11 @@
-  [Implant](../RN/Implant/Index.md) | [Informatics](./RN/Informatics/Index.md) | [Curtain](./RN/Curtain/index.md) | [Comm](./RN/Comm/index.md)
+  [Implant](./RN/Implant/Index.md) | [Informatics](./RN/Informatics/Index.md) | [Curtain](./RN/Curtain/index.md) | [Comm](./RN/Comm/index.md)
 
 --- 
 
-![banner](Content/BMI.png)
+![banner](./RN/Content/BMI.png)
 [*CoOp Behavior*](https://www.science.org/doi/10.1126/science.adw8151) / [*Emerging fiber-based neural interfaces*](https://www.nature.com/articles/s41528-025-00465-w#Sec14)
 
-![banner](Content/IMG_0022.jpg)
+![banner](./RN/Content/IMG_0022.jpg)
 [Retroauricular](https://pubs.rsc.org/image/article/2025/MH/d4mh01854k/d4mh01854k-f1_hi-res.gif)
 
 ### Itinerary 
