@@ -6,7 +6,7 @@ html {
     scroll-behavior: smooth;
 }
 
-/* Keep all links white */
+/* link attributes */
 a {
     color: rgb(134, 132, 255);
     text-decoration: inherit;
