@@ -13,7 +13,7 @@ The Optical Quantum Ground Station (OQGS) for Canada's Quantum EncrYption and Sc
 7. [Science Operation Centre (SOC)](#science-operation-centre-soc)
 8. [Bell Test and Atmospheric Modeling](#bell-test-and-atmospheric-modeling)
 9. [Optical Alignment and Time-Tagging](#optical-alignment-and-time-tagging)
-10. [QEYSSat Mission Timeline](#qeyss at-mission-timeline)
+10. [QEYSSat Mission Timeline](#qeyssat-mission-timeline)
 11. [Post-Quantum Key Distribution and Encryption](#post-quantum-key-distribution-and-encryption)
 12. [Corporate Network Integration](#corporate-network-integration)
 13. [ETSI GS QKD 014 Integration Example](#etsi-gs-qkd-014-integration-example)
