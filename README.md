@@ -32,9 +32,14 @@
  - [Possum](https://github.com/target/POSSUM)
  - MyTime [Hardware](https://hardware.mytime.com/)
 
- ### YT
+ ### Training
+ - [MatSCI](https://matsci.org/)
  - [Thinking ahead and creating reusable code (generic constraints)](https://www.youtube.com/watch?v=0qtwYT4n2CM)
  - [.NET 2026](https://www.youtube.com/watch?v=WYBZTraXlXQ)
+ - [How to Code in Quantum Machine Learning for Medical Applications](https://www.youtube.com/watch?v=tqVgZ8Av6BE)
+    * [ChemicalQDevice](https://github.com/kevinkawchak/LLMs-Pharmaceutical/tree/main)
+ - [Materials Project Seminars](https://www.youtube.com/c/MaterialsProject/playlists)
+ - [Springer Training](https://www.springernature.com/gp/librarians/tools-services/learn/tutorials-training-sessions/databases)
 
 **Julia**
 ```
